@@ -1,0 +1,4 @@
+#Mon Nov 27 12:18:54 ICT 2017
+base.0=D\:\\Data Kampus\\Semester 7\\Mobile Programming\\android-fundamentals-starter-apps-master\\WordListSql-Starter\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+renamed.0=classes.dex
+file.0=D\:\\Data Kampus\\Semester 7\\Mobile Programming\\android-fundamentals-starter-apps-master\\WordListSql-Starter\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1\\classes.dex
